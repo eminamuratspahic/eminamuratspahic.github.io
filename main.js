@@ -41,6 +41,3 @@ window.onload = function() {
 		}
 	}
 }
-
-
-//Emina Muratspahic och Klaudia Jasionek har arbetat i grupp för att skapa denna kod
