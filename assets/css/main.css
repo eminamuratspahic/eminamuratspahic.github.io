@@ -2593,7 +2593,6 @@ input, select, textarea {
 		justify-content: space-between;
 		background-color: #dac5bd;
 		background-attachment: scroll,								scroll;
-		background-image: url("images/overlay.png"), url("../../images/overlay.jpg");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								150%;
