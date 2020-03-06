@@ -2649,11 +2649,11 @@ input, select, textarea {
 	}
 
 		#footer .icons a {
-			color: black;
+			color: lightslategrey;
 		}
 
 	#footer .copyright {
-		color: black;
+		color: lightslategrey;
 		font-size: 0.8em;
 		list-style: none;
 		margin: 1em 0 0 0;
